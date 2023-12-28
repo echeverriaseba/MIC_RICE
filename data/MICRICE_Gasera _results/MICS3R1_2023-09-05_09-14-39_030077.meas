@@ -1,0 +1,11 @@
+Measurement parameters:
+TargetPressure	850	mbar
+FlushTimeBypass	1	sec
+FlushTimeCell	1	sec
+NFlushCell	4	
+GasInput	1	
+SamplingMode	0	
+InternalTimeout	0	
+Timestamp	CH4 (ppm) 	CO2 (ppm) 	H2O (ppm) 	N2O (ppm) 	NH3 (ppm) 	inlet	
+2023-09-05 09:14:39	6.82036	409.15600	28096.30000	0.29005	0.37675	1
+2023-09-05 09:16:01	6.66685	387.29700	27331.30000	0.31069	0.39109	1
